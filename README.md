@@ -27,7 +27,7 @@ plugins: [
     opacities: {
       '25': 0.25 //required
     },
-    colors: {
+    bgColors: {
       'black': '#000000' //optional
     },
     defaultColor: '#000000' //default
